@@ -3,26 +3,24 @@
 
 ## Other Technologies
 
-- **Database**: Mention databases you're familiar with (e.g., MySQL, MongoDB).
-- **Programming Languages**: List programming languages you're proficient in (e.g., JavaScript, Python).
-- **Frameworks**: Specify any frameworks you've worked with (e.g., React.js, Express.js).
-- **Version Control**: Indicate your proficiency in version control systems (e.g., Git).
-- **Deployment**: Describe your experience with deployment tools (e.g., Docker, Heroku).
-- **Testing**: Mention any testing frameworks or methodologies you're familiar with (e.g., Jest, Selenium).
-- **Other**: Include any other relevant technologies or tools you've worked with.
-
+- **Database**: Microsoft SQL Server, Azure CosmosDB, MySQL Server
+- **Programming Languages**: C, C++, C#, JavaScript
+- **Frameworks**: .Net 4.8 Framework, DotNetCore Framework, 
+- **Version Control**: Git, Bitbucket, GitLab, GitHub.
 
 ## About Me
-● 5.18 years of development experience with .Net Technology and client side Javascript.
-● Solid experience with C# and the .NET Framework and .Net Core 7
-● Modern .NET web/front-end frameworks (ASP.NET Web Forms and ASP.Net Razor Pages) and MVC.
-● JavaScript, jQuery, HTML, CSS, Bootstrap, Web API, WCF, Web Services, Rest API, WebSockets.
-● OOP concepts and design patterns.
-● MS - SQL Server and relational database concepts.
-● Modern source control systems (like Git, Bitbucket, GitLab, GitHub etc.)
+**5.18 years of development experience with .Net Technology and client side Javascript.**
+**Solid experience with C# and the .NET Framework and .Net Core 7**
+**Modern .NET web/front-end frameworks (ASP.NET Web Forms and ASP.Net Razor Pages) and MVC.**
+**JavaScript, jQuery, HTML, CSS, Bootstrap, Web API, WCF, Web Services, Rest API, WebSockets.**
+**OOP concepts and design patterns.**
+**MS - SQL Server and relational database concepts.**
+**Modern source control systems (like Git, Bitbucket, GitLab, GitHub etc.)**
 
 
 # Technical Proficiencies and Programming Expertise
+
+
 ## Middleware - Mini-Programs with examples
 
 ### 1: [DotNetCore Azure CosmosDB with EFCore](https://github.com/hishobkar/Example_AzureCosmosDB_with_EFCore)
@@ -40,7 +38,9 @@ Description: Demonstrating the use of Payroll Service in dotnet core.
 ### 5: [Generic RepoPattern](https://github.com/hishobkar/dotnet6_GenericRepositoryPattern)
 Description: Demonstrating the use of Generic Repository Pattern.
 
-## Frontend UX/UI 
+
+
+## Frontend UX/UI - Mini-Programs with examples
 
 ### 1: [JQuery Examples](https://github.com/hishobkar/Examples-JQuery-UI) 
 Description: Examples of client side javascript library JQuery used for web development.
